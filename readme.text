@@ -1,0 +1,11 @@
+command:
+node index.js add --title="go to the gym"
+node index.js list
+node index.js done --index=1
+
+delete:
+node index.js delete --index=1
+
+done:
+node index.js done --index=1
+
